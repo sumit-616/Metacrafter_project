@@ -55,7 +55,7 @@ This is a basic example for educational purposes and doesn't include all the nec
 
 ## Authors
 
-(Please replace with your information if applicable)
+Sumit Kumar
 
 ## License
 
